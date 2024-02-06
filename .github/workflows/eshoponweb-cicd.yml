@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: d4aa65eb-80e5-4bd7-90bc-337747feeab3
-  WEBAPP-NAME: az400-webapp-CMGL
+  WEBAPP-NAME: az400-webapp-CMGIL
 
 
 jobs:
